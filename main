@@ -1,0 +1,11 @@
+package.json
+index.html
+.vscode/ (optional)
+README.md
+.gitignore
+vite.config.js (optional)
+public/manifest.json (optional but helpful for Add to Home Screen)
+src/
+  ├─ main.jsx
+  ├─ App.jsx         <-- copy from the canvas file
+  └─ index.css
